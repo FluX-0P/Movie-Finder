@@ -4,7 +4,7 @@ Using TF-IDF vectorization to recommend movies
 ## 🔧 Installation & Setup
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/FluX-0P/Movie-Recommender-System.git
+   git clone https://github.com/FluX-0P/Movie-Finder.git
    cd movie-recommendation-app
    ```
 2. **Install dependencies**:
